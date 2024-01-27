@@ -4,7 +4,7 @@
 
 I am a software engineer. I am web expertise also trying to learning react naive. Here I posting my daily working tasks. 
 
-Skills: HTML/CSS/Tailwind CSS/React
+Skills: HTML/CSS/Tailwind CSS/React/Node js
 
 
 
