@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shamim Al Mamun</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p><img align="center" style={{ height: "400px", width: "500px" }} src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" alt="shamim-code" /></p>
+<p align="center">
+  <img 
+    src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" 
+    alt="shamim-code" 
+    height="400" 
+    width="500" 
+  />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim-code&label=Profile%20views&color=0e75b6&style=flat" alt="shamim-code" /> </p>
 
