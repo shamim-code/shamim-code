@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shamim Al Mamun</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
+<p><img align="center" src="https://i.ibb.co.com/rFGjtrW/429541767-3556109324641079-6071082711111321767-n.jpg" alt="shamim-code" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim-code&label=Profile%20views&color=0e75b6&style=flat" alt="shamim-code" /> </p>
 
 - 🤝 I’m currently working at **BD Calling It**
@@ -27,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim-code&show_icons=true&locale=en&layout=compact" alt="shamim-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamim-code&" alt="shamim-code" /></p>
